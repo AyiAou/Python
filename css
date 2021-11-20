@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>GNK48</title>
+</head>
+<style>
+
+body
+{	
+	line-height:40px;
+	text-align:center;
+	padding: 10px;
+	background-image: url(https://i0.hdslb.com/bfs/album/9eb9c50a71986025c0caa3cf678c0622b2457e72.jpg);
+			background-position:50% 50% ;
+			background-repeat:no-repeat ;
+			background-size:100% 100%;
+			background-attachment:fixed;
+    color: pink;
+}
+
+</style>
+
+
+<body>
+<br><br><br>
+ <h3></h3>
+<br><br>
+
+<form action="" >
+	
+账号: <input id="ac" ><br>
+密码: <input id="pw" ><br>
+<button type="submit" onclick="myfunction()"> 登录</button>
+<button type="submit" onclick="myfunction()"> 注册</button>
+</form>
+<br />
+</body>
+</html>
